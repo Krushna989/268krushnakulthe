@@ -1,0 +1,12 @@
+﻿Created on Friday Jul 17 23:11:18 2020
+
+@author: Krushna Kulthe
+"""
+a=3
+b=2
+add=a+b
+print(add)
+sub=a-b
+print(sub)
+mul=a*b
+print(mul)
